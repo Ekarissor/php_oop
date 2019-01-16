@@ -19,7 +19,7 @@ class Hero extends Character
 
     public function sayHello()
     {
-        return "Je suis le héros et je m'appelle {$this->name}";
+        return "I'm a Hero and my name is {$this->name}, prepare to die !";
     }
 
     public function revive()
