@@ -1,0 +1,14 @@
+{
+    "name": "ekarissor/php-oop",
+    "description": "php programmation orientée objet",
+    "authors": [
+        {
+            "name": "Ekarissor",
+            "email": "briffaut.alexandre@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"": "src/"}
+    },
+    "require": {}
+}
